@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/stylishsamuel/Deploying%20Docker%20containers%20to%20Azure%20App%20Service%20web%20apps/_apis/build/status/sureshaz400.ContosoAir?branchName=master)](https://dev.azure.com/stylishsamuel/Deploying%20Docker%20containers%20to%20Azure%20App%20Service%20web%20apps/_build/latest?definitionId=7&branchName=master)
+[![Build Status](https://dev.azure.com/stylishsamuel/Contosoair/_apis/build/status/Contosoair?branchName=master)](https://dev.azure.com/stylishsamuel/Contosoair/_build/latest?definitionId=23&branchName=master)
 
 #add another line
 
